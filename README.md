@@ -1,4 +1,4 @@
-# Collection of my personal scripts
+# scripts
 
 - `update.sh` - update Homebrew and Mac App Store
 - `prepend-date-from-yaml.sh` - prepend date from YAML to filename
