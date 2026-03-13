@@ -47,8 +47,10 @@ def menu():
     choice = input("Enter choice: ").strip()
 
     if choice == "1":
+        print()
         show_today()
     elif choice == "2":
+        print()
         show_last_week()
     else:
         print("Invalid option")
